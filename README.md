@@ -5,7 +5,8 @@ API Testing Project (E-commerce Backend)
 
 ## 📌 Описание проекта
 
-В рамках проекта было проведено тестирование новой функциональности бэкенда e-commerce сервиса (аналог Яндекс.Прилавок).
+В рамках проекта было проведено тестирование новой функциональности бэкенда e-commerce сервиса (аналог Яндекс.Прилавок).  
+Требования к бэкенду: https://code.s3.yandex.net/qa/files/backend_requirements.pdf
 
 ### 🔍 Область тестирования:
 
@@ -38,7 +39,7 @@ API Testing Project (E-commerce Backend)
 * 📋 Составлен чек-лист для тестирования API. 📋 [Чек-лист API тестирования](https://docs.google.com/spreadsheets/d/1MnKbfN2jl8jJKtXWknEwvE1Ur8f7ddZPWyYeQPPT6vc/edit?gid=2006427015#gid=2006427015)
 * 🔎 Проведено тестирование через Postman
 * 🐞 Найдены и оформлены баг-репорты 🐞 [Баг-репорты](https://docs.google.com/spreadsheets/d/1MnKbfN2jl8jJKtXWknEwvE1Ur8f7ddZPWyYeQPPT6vc/edit?gid=1079866997#gid=1079866997)
-* 📊 Подготовлен отчет о тестировании
+* 📊 Подготовлен отчет о тестировании 📊 [Отчёт о тестировании](https://docs.google.com/document/d/16_4VITP8C5xJyoAQ7mdQirV6YNtqN8AKpoRm_chut_U/edit?tab=t.0)
 
 
 
